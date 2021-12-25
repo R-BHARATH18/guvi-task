@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(44, 159, 247);
+  font-family: "lato",sans-serif;
+  font-weight: bold;
+}
+.btn-primary{
+  background-color: rgb(4, 4, 65);
+}
+.flag{
+  height: 150px;
+  width: 100%;
+}
+.card.border{
+  height: 90%;
+  background-color:rgb(74, 74, 88);
+  background-size: contain;
+  background-size: auto;
+}
